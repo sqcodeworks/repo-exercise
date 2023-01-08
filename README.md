@@ -1,4 +1,4 @@
 # repo-exercise
 Coursera Repo For Lab Practice
 
-This line is added in this file using vim in git-bash
+This readme file is in testing2 branch.
